@@ -9,10 +9,8 @@ import com.xingxunlei.email.verify.utils.VerifyUtils;
  */
 public class Main {
 
-
     public static void main(String[] args) {
-        System.out.println(VerifyUtils.isEmailValid("hc-java@ttpai.cn"));
+        System.out.println(VerifyUtils.isEmailValid("abc@qq.com"));
     }
-
 
 }
